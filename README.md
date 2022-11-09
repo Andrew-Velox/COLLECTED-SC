@@ -5,7 +5,7 @@
 
 <b></b><br> [![Facebook](https://img.shields.io/badge/Facebook-VELOX-blue?style=flat-square&logo=facebook)](https://www.facebook.com/V3L0X.ME)<br>
 
-<h1 align="center"> HERE YOU CAN FIND ALL MY COLLECTED SC 🌟 </h1>
+<h1 align="center"> YOU CAN FIND ALL MY COLLECTED SC HERE. 🌟 </h1>
 
 <h3 align="center"> ENJOY ☕ </h3>
 

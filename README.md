@@ -1,5 +1,10 @@
 # COLLECTED-SC
-🎉 OPENSOURCE OF 💖 COLLECTED SC 🎉
+
+
+
+<h2 align="center"> 🏷️Note: Rename your files by adding (.py) before use.
+
+
 
 
 

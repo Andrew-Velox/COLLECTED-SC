@@ -1,9 +1,4 @@
-#!/usr/bin/python3
-# -*- coding: utf-8 -*-
-#NGAPAIN LIAT KESINI NGAB?
-#MAU RECODE IZIN DULU LAH
-#BERI STAR+FOLLOW JUGA
-#SC GRATIS NIH
+
 import requests,bs4,json,os,sys,random,datetime,time,re
 import urllib3
 try:
